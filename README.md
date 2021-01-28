@@ -65,6 +65,8 @@
 
 158976808 [DELL黑苹果交流群](https://qm.qq.com/cgi-bin/qm/qr?k=c9DeeyUg9x4dZlOpIVmj4R4g38p-YCZ1&jump_from=webapi) 1000人群 非专用机型请勿加入
 
+![WeChatandShop](ScreenShot/WeChatandShop.png)
+
 ## EFI下载
 
 https://github.com/daliansky/Dell-OptiPlex-9020M-Hackintosh/releases/
